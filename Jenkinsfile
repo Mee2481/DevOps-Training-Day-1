@@ -7,7 +7,7 @@ pipeline {
             echo 'Hello World'
          }
       }
-      stage('Checking the Pipeline Syntax') {
+      stage('Checkout Code from SCM') {
          steps {
             echo 'This is to Checkout the SCM Code from Jenkinsfile'
          }
