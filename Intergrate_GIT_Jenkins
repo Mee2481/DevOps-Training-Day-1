@@ -5,3 +5,5 @@ echo "This is to test integration between GIT and Jenkins...!!!"
 echo "Testing xyz"
 
 date > demo.txt
+
+yum install -y maven
