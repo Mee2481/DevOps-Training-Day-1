@@ -6,4 +6,4 @@ echo "Testing xyz"
 
 date > demo.txt
 
-yum install -y maven
+mkdir Meenakshi
